@@ -42,7 +42,7 @@ h1{
     align-items: center;
  padding: 13px 13px;
  flex-direction: column;
- 
+ padding: 12px 12px;
     /* align-content: center; */
     justify-content: center;
     display: flex;
@@ -50,4 +50,8 @@ h1{
 
 .sub{
     padding: 12px 12px;
+}
+
+.eml{
+    padding: 12px 12px;   
 }
